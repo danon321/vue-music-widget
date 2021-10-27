@@ -1,0 +1,12 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 11" width="16" height="11">
+	<title>Playlist</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #60558f } 
+	</style>
+	<g id="Playlist">
+		<g id="Back">
+			<path id="arrow 1" class="shp0" d="M0 5.12L6.13 -0.01L6.13 2.43C10.91 2.76 14.85 6.3 16 11.01C14.07 8.95 11.38 7.68 8.41 7.68C7.63 7.68 6.87 7.69 6.13 7.81L6.13 10.25L0 5.12Z" />
+		</g>
+	</g>
+</svg>

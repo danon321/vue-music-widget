@@ -1,0 +1,12 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 16" width="17" height="16">
+	<title>Player</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ffffff } 
+	</style>
+	<g id="Player">
+		<g id="Top  options">
+			<path id="shuffle" class="shp0" d="M13.02 10.66L10.7 10.66L5.98 2.55L5.97 2.55L5.97 2.55L0.5 2.55L0.5 5.09L4.5 5.09L9.22 13.2L9.23 13.2L9.23 13.2L13.02 13.2L13.02 15.37L16.49 11.93L13.02 8.49L13.02 10.66ZM13.03 5.09L13.03 7.26L16.5 3.82L13.03 0.38L13.03 2.55L8.59 2.55L10.07 5.09L13.03 5.09ZM0.5 10.66L0.5 13.2L6.61 13.2L5.13 10.66L0.5 10.66Z" />
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,14 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15 12" width="15" height="12">
+	<title>Playlist</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ed5e74 } 
+	</style>
+	<g id="Playlist">
+		<g id="1">
+			<g id="Options">
+				<path id="favorite 2 copy" class="shp0" d="M14.5 3.8C14.43 1.7 12.82 0 10.74 0C9.36 0 8.15 0.76 7.5 1.88C6.85 0.76 5.64 0 4.26 0C2.18 0 0.57 1.7 0.5 3.8C0.35 8.57 7.5 12 7.5 12C7.5 12 14.65 8.57 14.5 3.8Z" />
+			</g>
+		</g>
+	</g>
+</svg>
