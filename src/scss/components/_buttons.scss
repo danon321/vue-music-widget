@@ -8,14 +8,14 @@
             width: 36px;
             height: 36px;
             border-radius: 50%;
-            &--white,
-            &--purple{
+            &.button__circle--white,
+            &.button__circle--purple{
                 filter: drop-shadow(0px 2px 2px rgba(0,0,0,0.1));
             }
-            &--white{
+            &.button__circle--white{
                 background-color: $button-bg-color;
             }
-            &--purple{
+            &.button__circle--purple{
                 background-color: $button-purple-bg-color;
             }
             &.button__bigger{
